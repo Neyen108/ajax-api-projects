@@ -1,6 +1,7 @@
 # ajax-api-projects
 A repository containing a few projects on AJAX and APIs in vanilla-javascript
 
+
 1-chuck-norris-jokes
   Gets a random joke from an API and displays it.
 2-random-user
