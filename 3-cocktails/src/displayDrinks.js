@@ -22,6 +22,7 @@ const displayDrinks = ({drinks}) => {
           </article>
         </a>`
     }).join('');
+    
     //hide loading
     title.textContent = '';
     section.innerHTML = drinksSection;
