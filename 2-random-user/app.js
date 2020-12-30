@@ -2,8 +2,6 @@ import get from "./utilities/get-element.js";
 import getUser from './utilities/getUser.js';
 import displayUser from './utilities/displayUser.js';
 
-
-
 const btn = get('.btn');
 
 const showUser = async () => {

@@ -1,4 +1,4 @@
-import get from './get-element.js'
+import get from './get-element.js';
 
 const img = get('.user-img');
 const title = get('.user-title');
